@@ -8,6 +8,7 @@ public class MytestApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(MytestApplication.class ,args);
+        System.out.println("this is first my commit");
 
 
     }
