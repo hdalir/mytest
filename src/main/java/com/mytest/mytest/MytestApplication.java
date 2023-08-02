@@ -10,6 +10,7 @@ public class MytestApplication {
         SpringApplication.run(MytestApplication.class ,args);
 
         System.out.println("print");
+        System.out.println("print");
 
 
 
