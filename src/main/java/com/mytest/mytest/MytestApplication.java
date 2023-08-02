@@ -19,10 +19,8 @@ public class MytestApplication {
         System.out.println("print");
         System.out.println("print");
         System.out.println("my name");
-<<<<<<< HEAD
-=======
         System.out.println("my name");
->>>>>>> develop
+
 
 
 
