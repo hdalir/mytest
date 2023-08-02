@@ -18,6 +18,7 @@ public class MytestApplication {
         System.out.println("print");
         System.out.println("print");
         System.out.println("print");
+        System.out.println("my name");
 
 
 
